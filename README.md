@@ -6,7 +6,7 @@ within make another 2 folders :
    https://github.com/v-iashin/video_features.git
 
 
-This is a repo with 3 transformer/layers 
-based on : https://github.com/v-iashin/BMT.git
-Trial Changed (colab) : 
-Bi directional Trial (colab) : https://colab.research.google.com/github/v-iashin/BMT/blob/master/colab_demo_BMT.ipynb
+This is a repo with 3 transformer/layers :
+a. based on : https://github.com/v-iashin/BMT.git , https://github.com/mbzuai-oryx/Video-ChatGPT , 
+b. Trial Changed (colab) : 
+c. Bi directional Trial (colab) : https://colab.research.google.com/github/v-iashin/BMT/blob/master/colab_demo_BMT.ipynb
